@@ -1,0 +1,31 @@
+#navbar{
+    background-color: black;
+    height: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+.button{
+    background-color: orange;
+}
+#logo{
+    font-size: 25px;
+    margin-left: 0px;
+    color: orange;
+}
+a{
+    margin-left: 200px;
+}
+#footer{
+    background-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+    text-align: center;
+}
+#content{
+    height: 550px;
+}
+#contentbox{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}

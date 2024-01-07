@@ -1,0 +1,42 @@
+.div1{
+    background-color: #0f1111;
+    height: 80px;
+    border: 10px solid #f08804;
+}
+p{
+    font-size: 25px;
+    color: #f08804;
+    padding-left: 10px;
+}
+#account{
+    color: white;
+    padding-left: 200px;
+    padding-right: 200px;
+    
+}
+#a1{
+    text-decoration: none;
+    color: white;
+    padding-left: 200px;
+}
+#a2{
+    text-decoration: none;
+    color: white;
+    padding-left: 200px;
+}
+#a3{
+    text-decoration: none;
+    padding-right: 200px;
+    color: white;
+    padding-left: 200px;
+    
+}
+#a4{
+    color: white;
+    /* padding-left: 200px; */
+}
+#a5{
+    color: white;
+    background-color: #f08804;
+     
+}
